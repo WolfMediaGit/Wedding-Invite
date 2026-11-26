@@ -1,0 +1,102 @@
+{
+  "vw": 1440,
+  "H": 12261,
+  "note": "Measured on rammandir.framer.website at a 1440px viewport (Framer breakpoint 1349-1558). Coordinates are page px with the 1515px artboard starting at x=-37.5. Boxes are visual (post-scale) sizes; k = static scale of a component's inner layout.",
+  "secs": [
+    {
+      "n": "1 — Hero & Invitation", "z": 1, "x": -37, "y": 2, "w": 1515, "h": 4786, "clip": true, "bg": "rgb(247, 232, 212)",
+      "el": [
+        {"t":"t","n":"Hero Title — Monika","x":541.5,"y":285,"w":358,"h":168,"items":[{"tx":"Monika","ff":"Miofarin Regular","fs":140,"lh":"168px","c":"rgba(171, 86, 38, 0.72)"}],"z":8},
+        {"t":"t","n":"Hero Title — and","x":657,"y":195.2,"w":127,"h":140,"items":[{"tx":"weds","ff":"Brother Signature Regular","fs":117,"lh":"140.4px","c":"rgba(171, 86, 38, 0.72)"}],"z":8},
+        {"t":"t","n":"Hero Title — Tushar","x":566.5,"y":95,"w":308,"h":168,"items":[{"tx":"Tushar","ff":"Miofarin Regular","fs":140,"lh":"168px","c":"rgba(171, 86, 38, 0.72)"}],"z":8},
+        {"t":"c","n":"Flocking Birds","x":-36,"y":-15.2,"w":1515,"h":814,"z":2},
+        {"t":"t","n":"Label — Events Intro","x":531,"y":3203.1,"w":378,"h":47,"items":[{"tx":"11 Dec 2026 · 6 PM","ff":"IvyOra Display Regular","fs":39,"lh":"46.8px","c":"rgb(95, 37, 15)"}],"z":10},
+        {"t":"t","n":"Bride Parents","x":328,"y":2981.3,"w":784,"h":43,"items":[{"tx":"Shri. Jai Prakash Tripathi & Smt. Anita Tripathi","ff":"Gotham Medium","fs":36,"lh":"43.2px","c":"rgb(171, 86, 38)"}],"z":10},
+        {"t":"t","n":"Label — Daughter of","x":661.5,"y":2940.5,"w":117,"h":29,"items":[{"tx":"Daughter of","ff":"IvyOra Display Regular","fs":24,"lh":"28.8px","c":"rgb(95, 37, 15)","ta":"center"}],"z":10},
+        {"t":"t","n":"Bride Name — Monika","x":555,"y":2776.9,"w":330,"h":155,"items":[{"tx":"Monika","ff":"Miofarin Regular","fs":129,"lh":"154.8px","c":"rgba(171, 86, 38, 0.72)"}],"z":10},
+        {"t":"t","n":"Ampersand — and","x":-35.5,"y":2668.8,"w":1515,"h":154,"items":[{"tx":"and","ff":"Brother Signature Regular","fs":128,"lh":"153.6px","c":"rgba(171, 86, 38, 0.72)","ta":"center"}],"z":10},
+        {"t":"t","n":"Groom Name — Tushar","x":553.5,"y":2567.1,"w":333,"h":181,"items":[{"tx":"Tushar","ff":"Miofarin Regular","fs":151,"lh":"181.2px","c":"rgba(171, 86, 38, 0.72)"}],"z":10},
+        {"t":"t","n":"Invitation Line","x":388,"y":2490.9,"w":664,"h":65,"items":[{"tx":"The Tripathi family invites you presence at the wedding","ff":"IvyOra Display Regular","fs":27,"lh":"32.4px","c":"rgb(95, 37, 15)","ta":"center"},{"tx":"celebration of Tushar and Monika","ff":"IvyOra Display Regular","fs":27,"lh":"32.4px","c":"rgb(95, 37, 15)","ta":"center"}],"z":10},
+        {"t":"t","n":"Groom Parents","x":328,"y":2437.1,"w":784,"h":43,"items":[{"tx":"Shri. Anil Bhandari & Smt. Sunita Bhandari","ff":"Gotham Medium","fs":36,"lh":"43.2px","c":"rgb(171, 86, 38)"}],"z":10},
+        {"t":"i","n":"Shri Line (img)","src":"DRFRG6BredDwQiJY7bR0l7zYMs.webp","x":585.5,"y":2317.2,"w":269,"h":52,"fit":"cover","z":10},
+        {"t":"i","n":"Ganpati Icon","src":"qTQEkBOwp9swndaRzxYt0TOx8U.webp","x":678.5,"y":2194.2,"w":83,"h":114,"fit":"cover","z":10},
+        {"t":"i","n":"Ganpati Name (img)","src":"4cA2HUMDhUokZACwYXNtj8gs8Os.webp","x":614.5,"y":2129.2,"w":211,"h":65,"fit":"contain","z":10},
+        {"t":"c","n":"Scroll Arrow","x":695.5,"y":3509,"w":50,"h":165,"z":10},
+        {"t":"i","n":"Corner Decoration","src":"svYNfrgA0JSnowyYTfnNW2qkvHY.webp","x":607.5,"y":428,"w":225,"h":191,"fit":"contain","z":9},
+        {"t":"c","n":"Waving Flag","x":705.4,"y":458.9,"w":121,"h":81,"z":9},
+        {"t":"i","n":"Bells Frame","src":"XEME29GdiyV3RDHfslzLVTpFP1g.webp","x":-36,"y":-183.1,"w":1513,"h":773,"fit":"contain","z":9},
+        {"t":"c","n":"Hanging Bell 1","x":104,"y":0,"w":200,"h":350,"z":10,"src":"BETBi0AtFY20asJ3PfAMAFe8g.png"},
+        {"t":"c","n":"Hanging Bell 2","x":1130,"y":0,"w":200,"h":350,"z":10,"src":"BETBi0AtFY20asJ3PfAMAFe8g.png"},
+        {"t":"c","n":"Hanging Bell 3","x":27.5,"y":62,"w":153,"h":350,"z":8,"src":"XegR81dMLWk0YMirVBF6rsfAs3Y.png"},
+        {"t":"c","n":"Hanging Bell 4","x":1257.5,"y":62,"w":153,"h":350,"z":8,"src":"XegR81dMLWk0YMirVBF6rsfAs3Y.png"},
+        {"t":"c","n":"Hanging Bell 5","x":-66,"y":140,"w":200,"h":350,"z":7,"src":"XegR81dMLWk0YMirVBF6rsfAs3Y.png"},
+        {"t":"c","n":"Hanging Bell 6","x":1314,"y":160,"w":200,"h":350,"z":7,"src":"XegR81dMLWk0YMirVBF6rsfAs3Y.png"},
+        {"t":"i","n":"Temple","src":"lKVzZvE9zjHal1zLmfO4koCjo.webp","x":-37,"y":498,"w":1515,"h":3574,"fit":"contain","z":9},
+        {"t":"i","n":"Cloud","src":"w2VucNwOfPZvxA8ibgdnaWF7T4.webp","x":-37,"y":0,"w":1515,"h":1222,"fit":"cover","z":6},
+        {"t":"i","n":"Mountain","src":"WAxILXJh5vxiTnOtbAVwuxo0PsQ.webp","x":-37,"y":453.1,"w":1515,"h":1501,"fit":"cover","z":5},
+        {"t":"i","n":"Sun","src":"dh5fZvEiBieci19vHLxfPJc5QAI.webp","x":101.4,"y":175,"w":1026,"h":870,"fit":"contain","z":2},
+        {"t":"i","n":"Sky Background","src":"BYAsD8Youh2KSQp1YWLBPEg8U.webp","x":-37,"y":2,"w":1515,"h":1282,"fit":"cover","z":-1}
+      ]
+    },
+    {
+      "n": "2 — Wedding Timeline", "z": 2, "x": -37.5, "y": 2228, "w": 1515, "h": 3835, "clip": true,
+      "el": [
+        {"t":"i","n":"Peacock Backdrop","src":"IxbRblgZX2YiN0xuANY2jX4Excg.webp","x":-37,"y":2969.8,"w":1515,"h":3567,"fit":"contain","z":1},
+        {"t":"i","n":"Peacock Ornament","src":"Faqdd7FNeFyJ6ps5vdLeS54Co.webp","x":599,"y":4750.8,"w":243,"h":96,"fit":"cover","z":1},
+        {"t":"card","n":"6","src":"TUkRvFIUDwblbb4eewkBlJzZwJw.png","x":1193,"y":4369.3,"w":186,"h":288,"fit":"cover","z":1},
+        {"t":"card","n":"5","src":"TUkRvFIUDwblbb4eewkBlJzZwJw.png","x":967,"y":4370,"w":186,"h":288,"fit":"cover","z":1},
+        {"t":"card","n":"4","src":"TUkRvFIUDwblbb4eewkBlJzZwJw.png","x":741,"y":4369.3,"w":186,"h":288,"fit":"cover","z":1},
+        {"t":"card","n":"3","src":"TUkRvFIUDwblbb4eewkBlJzZwJw.png","x":514,"y":4369.3,"w":186,"h":288,"fit":"cover","z":1},
+        {"t":"card","n":"2","src":"TUkRvFIUDwblbb4eewkBlJzZwJw.png","x":288,"y":4369.3,"w":186,"h":288,"fit":"cover","z":1},
+        {"t":"card","n":"1","src":"TUkRvFIUDwblbb4eewkBlJzZwJw.png","x":62,"y":4369.3,"w":186,"h":288,"fit":"cover","z":1},
+        {"t":"i","n":"5 down","src":"E3n3YL5RKanyoBxca5PLxMtx3rk.webp","x":1113,"y":4586.1,"w":124,"h":124,"fit":"cover","z":1},
+        {"t":"i","n":"5 up","src":"E3n3YL5RKanyoBxca5PLxMtx3rk.webp","x":1113,"y":4301.9,"w":124,"h":124,"fit":"cover","z":1},
+        {"t":"i","n":"4 down","src":"E3n3YL5RKanyoBxca5PLxMtx3rk.webp","x":889,"y":4586.1,"w":124,"h":124,"fit":"cover","z":1},
+        {"t":"i","n":"4 up","src":"E3n3YL5RKanyoBxca5PLxMtx3rk.webp","x":889,"y":4301.9,"w":124,"h":124,"fit":"cover","z":1},
+        {"t":"i","n":"3 down","src":"E3n3YL5RKanyoBxca5PLxMtx3rk.webp","x":658.5,"y":4586.1,"w":124,"h":124,"fit":"cover","z":1},
+        {"t":"i","n":"3 up","src":"E3n3YL5RKanyoBxca5PLxMtx3rk.webp","x":658.5,"y":4301.9,"w":124,"h":124,"fit":"cover","z":1},
+        {"t":"i","n":"2 down","src":"E3n3YL5RKanyoBxca5PLxMtx3rk.webp","x":437,"y":4586.1,"w":124,"h":124,"fit":"cover","z":1},
+        {"t":"i","n":"2 up","src":"E3n3YL5RKanyoBxca5PLxMtx3rk.webp","x":437,"y":4301.9,"w":124,"h":124,"fit":"cover","z":1},
+        {"t":"i","n":"1 down","src":"E3n3YL5RKanyoBxca5PLxMtx3rk.webp","x":204,"y":4586.1,"w":124,"h":124,"fit":"cover","z":1},
+        {"t":"i","n":"1 up","src":"E3n3YL5RKanyoBxca5PLxMtx3rk.webp","x":204,"y":4301.9,"w":124,"h":124,"fit":"cover","z":1},
+        {"t":"t","n":"Timeline Subtext","x":443.5,"y":4250.8,"w":553,"h":28,"items":[{"tx":"Mark Your Calendars, We Can’t Wait to Celebrate","ff":"Gotham Light","fs":23,"lh":"27.6px","c":"rgb(95, 37, 15)"}],"z":1},
+        {"t":"t","n":"Timeline Heading","x":198.5,"y":4135.8,"w":1043,"h":96,"items":[{"tx":"Wedding Celebration Timeline","ff":"IvyOra Display Medium","fs":80,"lh":"96px","c":"rgb(95, 37, 15)","ta":"center"}],"z":1},
+        {"t":"i","n":"Pillar Backdrop","src":"VSWKtKY9anp40BO4QazdQK473tQ.webp","x":-37.5,"y":2369,"w":1515,"h":1653,"fit":"contain","z":0}
+      ]
+    },
+    {
+      "n": "3 — Meet the Couple", "z": 3, "x": -37.5, "y": 4642, "w": 1515, "h": 2157, "clip": false,
+      "el": [
+        {"t":"t","n":"Almost Time Heading","x":580,"y":7655.9,"w":280,"h":125,"items":[{"tx":"Almost time","ff":"IvyOra Display Medium","fs":52,"lh":"62.4px","c":"rgb(95, 37, 15)","ta":"center"},{"tx":"to celebrate","ff":"IvyOra Display Medium","fs":52,"lh":"62.4px","c":"rgb(95, 37, 15)","ta":"center"}],"z":2},
+        {"t":"i","n":"Section Backdrop","src":"q34vGrlWel2dWqX5zDNWJQDl9k.webp","x":-37.5,"y":4818,"w":1515,"h":5675,"fit":"contain","z":0},
+        {"t":"i","n":"Mandala Decoration L","src":"UmHP4DGOVhAoz2Wx4tcMvgZoBc.webp","x":1118.4,"y":5212.5,"w":263.7,"h":263.7,"fit":"cover","z":1},
+        {"t":"i","n":"Mandala Decoration R","src":"UmHP4DGOVhAoz2Wx4tcMvgZoBc.webp","x":57.9,"y":5212.5,"w":263.7,"h":263.7,"fit":"cover","z":1},
+        {"t":"i","n":"Message Card Frame","src":"bV5rTKtXbSKvnQpg3vwzhWFRfzs.webp","x":318,"y":6198.9,"w":804,"h":990,"fit":"cover","z":3},
+        {"t":"c","n":"Message Scroll Text","x":390,"y":6514,"w":661,"h":324,"z":1},
+        {"t":"c","n":"Photo Gallery","x":-37,"y":7225,"w":1515,"h":760,"z":1},
+        {"t":"t","n":"Meet the Couple Heading","x":274,"y":5871,"w":892,"h":264,"items":[{"tx":"Meet the","ff":"IvyOra Display Medium","fs":110,"lh":"132px","c":"rgb(95, 37, 15)","ta":"center"},{"tx":"BRIDE & GROOM","ff":"IvyOra Display Medium","fs":110,"lh":"132px","c":"rgb(95, 37, 15)","ta":"center"}],"z":0}
+      ]
+    },
+    {
+      "n": "4 — Location & Countdown", "z": 4, "x": -37, "y": 7997, "w": 1515, "h": 2294, "clip": false,
+      "el": [
+        {"t":"i","n":"Section Background","src":"fXdVaVM1Iocp7HSsFNQd7A9zHrw.webp","x":11.5,"y":7945.2,"w":1418,"h":945,"fit":"cover","z":-1},
+        {"t":"i","n":"Location & Countdown BG","src":"HRENeallVVOHG1sTSUCePuUH4.webp","x":-37,"y":7940,"w":1515,"h":9148,"fit":"contain","z":0},
+        {"t":"b","n":"White Spacer","x":-36.5,"y":12179,"w":1515,"h":126,"bg":"rgb(255, 255, 255)","z":0},
+        {"t":"i","n":"Countdown Backdrop","src":"ECYGxlUfN1A1OmbaiTl8iogMeVk.webp","x":-37,"y":10496,"w":1515,"h":1875,"fit":"contain","z":0},
+        {"t":"c","n":"Countdown Timer","x":370.3,"y":11062.3,"w":699.3,"h":132.3,"k":2.1,"z":0},
+        {"t":"i","n":"Countdown Divider","src":"fh6rhHrxI1397e5fR1HuT0QU.webp","x":408.5,"y":10982,"w":623,"h":35,"fit":"cover","z":0},
+        {"t":"t","n":"Countdown Intro Text","x":364.5,"y":10830,"w":708,"h":133,"items":[{"tx":"Our families are excited that you are able to","ff":"IvyOra Display Regular","fs":30,"lh":"36px","c":"rgb(95, 37, 15)","ta":"center"},{"tx":"join us in celebrating what we hope will be","ff":"IvyOra Display Regular","fs":30,"lh":"36px","c":"rgb(95, 37, 15)","ta":"center"},{"tx":"one of the happiest days of our lives","ff":"IvyOra Display Regular","fs":30,"lh":"36px","c":"rgb(95, 37, 15)","ta":"center"}],"z":0},
+        {"t":"t","n":"Countdown Heading","x":271,"y":10717.8,"w":898,"h":112,"items":[{"tx":"The countdown begins","ff":"IvyOra Display Medium","fs":93,"lh":"111.6px","c":"rgb(95, 37, 15)"}],"z":0},
+        {"t":"i","n":"Ornament Top","src":"DIljN6CZ5Ok94fYAeNVQ4nSQOEo.webp","x":458.5,"y":9916.9,"w":524,"h":86,"fit":"cover","z":0},
+        {"t":"i","n":"Ornament Bottom","src":"DIljN6CZ5Ok94fYAeNVQ4nSQOEo.webp","x":458.5,"y":10513.9,"w":524,"h":86,"fit":"cover","r":180,"z":0},
+        {"t":"t","n":"Things to Know Subtext","x":-37,"y":10093,"w":1515,"h":110,"wrap":true,"items":[{"tx":"To help you feel at ease and enjoy every moment of the celebrations, we’ve gathered a few thoughtful details we’d love for you to know before the big day","ff":"Gotham Book","fs":28,"lh":"44.8px","c":"rgb(95, 37, 15)","ls":"-0.56px","ta":"center"}],"z":0},
+        {"t":"t","n":"Things to Know Heading","x":524.5,"y":10012,"w":392,"h":72,"items":[{"tx":"Things to know","ff":"IvyOra Display Medium","fs":60,"lh":"72px","c":"rgb(95, 37, 15)"}],"z":0},
+        {"t":"c","n":"Info Icons Row","x":-37,"y":10261,"w":1515,"h":220,"z":0},
+        {"t":"c","n":"RSVP Form","x":431.4,"y":9550.7,"w":575.3,"h":270.6,"k":1.1,"z":10},
+        {"t":"c","n":"Location Map","x":180.5,"y":9065,"w":1078,"h":438.9,"k":1.1,"z":3},
+        {"t":"t","n":"Looking Forward Heading","x":378,"y":8955,"w":685,"h":72,"items":[{"tx":"Looking forward to see you","ff":"IvyOra Display Medium","fs":60,"lh":"72px","c":"rgb(95, 37, 15)","ta":"center"}],"z":1}
+      ]
+    }
+  ]
+}

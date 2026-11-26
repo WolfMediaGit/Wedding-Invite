@@ -1,0 +1,1077 @@
+{
+ "id": "mobile",
+ "style": "mobile",
+ "card": "small",
+ "width": 398,
+ "height": 6180,
+ "refViewport": 393,
+ "minViewport": 0,
+ "maxViewport": 429,
+ "gallery": {
+  "width": 402,
+  "height": 340,
+  "view": 280,
+  "wheel": 400,
+  "wheelTop": 80,
+  "card": 80
+ },
+ "sections": [
+  {
+   "id": "hero-invitation",
+   "name": "1 — Hero & Invitation",
+   "z": 1,
+   "top": 0,
+   "height": 1782,
+   "clip": true,
+   "bg": "rgb(247, 232, 212)",
+   "elements": [
+    {
+     "t": "t",
+     "n": "Hero Title — Monika",
+     "x": 89.0,
+     "y": 211.1,
+     "w": 220.0,
+     "h": 103.0,
+     "items": [
+      {
+       "tx": "Monika",
+       "ff": "Miofarin Regular",
+       "fs": 86,
+       "lh": "103.2px",
+       "c": "rgba(171, 86, 38, 0.72)"
+      }
+     ],
+     "z": 7,
+     "id": "hero-title-monika"
+    },
+    {
+     "t": "t",
+     "n": "Hero Title — and",
+     "x": 160.5,
+     "y": 156.1,
+     "w": 77.0,
+     "h": 85.0,
+     "items": [
+      {
+       "tx": "weds",
+       "ff": "Brother Signature Regular",
+       "fs": 71,
+       "lh": "85.2px",
+       "c": "rgba(171, 86, 38, 0.72)"
+      }
+     ],
+     "z": 7,
+     "id": "hero-title-and"
+    },
+    {
+     "t": "t",
+     "n": "Hero Title — Tushar",
+     "x": 104.5,
+     "y": 94.1,
+     "w": 189.0,
+     "h": 103.0,
+     "items": [
+      {
+       "tx": "Tushar",
+       "ff": "Miofarin Regular",
+       "fs": 86,
+       "lh": "103.2px",
+       "c": "rgba(171, 86, 38, 0.72)"
+      }
+     ],
+     "z": 7,
+     "id": "hero-title-tushar"
+    },
+    {
+     "t": "c",
+     "n": "Flocking Birds",
+     "x": 0.0,
+     "y": -1.0,
+     "w": 398.0,
+     "h": 499.0,
+     "z": 2,
+     "id": "flocking-birds"
+    },
+    {
+     "t": "i",
+     "n": "Corner Decoration",
+     "x": 169.5,
+     "y": 317.0,
+     "w": 58.0,
+     "h": 61.0,
+     "src": "plRMuObVZgXFVWzrOuY2xNVRHHs.webp",
+     "fit": "contain",
+     "z": 9,
+     "id": "corner-decoration"
+    },
+    {
+     "t": "c",
+     "n": "Waving Flag",
+     "x": 196.7,
+     "y": 321.2,
+     "w": 36.4,
+     "h": 33.6,
+     "k": 0.7,
+     "z": 9,
+     "id": "waving-flag"
+    },
+    {
+     "t": "c",
+     "n": "Scroll Arrow",
+     "x": 174.0,
+     "y": 1467.0,
+     "w": 50.0,
+     "h": 165.0,
+     "z": 10,
+     "id": "scroll-arrow"
+    },
+    {
+     "t": "i",
+     "n": "Ganpati Name (img)",
+     "x": 158.5,
+     "y": 919.9,
+     "w": 83.0,
+     "h": 26.0,
+     "src": "kJ6ukGxpOPVxnwLybHzfIL3VtkM.webp",
+     "fit": "contain",
+     "z": 10,
+     "id": "ganpati-name-img"
+    },
+    {
+     "t": "i",
+     "n": "Ganpati Icon",
+     "x": 176.5,
+     "y": 950.9,
+     "w": 47.0,
+     "h": 65.0,
+     "src": "5FVM3OmFePuLZFoKyYpESSXgaE.webp",
+     "fit": "cover",
+     "z": 10,
+     "id": "ganpati-icon"
+    },
+    {
+     "t": "i",
+     "n": "Shri Line (img)",
+     "x": 102.5,
+     "y": 1025.0,
+     "w": 195.0,
+     "h": 38.0,
+     "src": "dRCMDT9ufGWEZehulDCNdJpwaLs.webp",
+     "fit": "cover",
+     "z": 10,
+     "id": "shri-line-img"
+    },
+    {
+     "t": "t",
+     "n": "Groom Parents",
+     "x": 58.5,
+     "y": 1096.8,
+     "w": 283.0,
+     "h": 16.0,
+     "items": [
+      {
+       "tx": "Shri. Jai Prakash Tripathi & Smt. Anita Tripathi",
+       "ff": "Gotham Medium",
+       "fs": 13,
+       "lh": "15.6px",
+       "c": "rgb(171, 86, 38)"
+      }
+     ],
+     "z": 10,
+     "id": "groom-parents"
+    },
+    {
+     "t": "t",
+     "n": "Bride Parents",
+     "x": 58.5,
+     "y": 1403.2,
+     "w": 283.0,
+     "h": 16.0,
+     "items": [
+      {
+       "tx": "Shri. Anil Bhandari & Smt. Sunita Bhandari",
+       "ff": "Gotham Medium",
+       "fs": 13,
+       "lh": "15.6px",
+       "c": "rgb(171, 86, 38)"
+      }
+     ],
+     "z": 10,
+     "id": "bride-parents"
+    },
+    {
+     "t": "t",
+     "n": "Label — Daughter of",
+     "x": 167.0,
+     "y": 1382.2,
+     "w": 66.0,
+     "h": 16.0,
+     "items": [
+      {
+       "tx": "Daughter of",
+       "ff": "IvyOra Display Medium",
+       "fs": 13,
+       "lh": "15.6px",
+       "c": "rgb(95, 37, 15)"
+      }
+     ],
+     "z": 10,
+     "id": "label-daughter-of"
+    },
+    {
+     "t": "t",
+     "n": "Label — Events Intro",
+     "x": 90.1,
+     "y": 1459.0,
+     "w": 212.0,
+     "h": 24.0,
+     "items": [
+      {
+       "tx": "11 Dec 2026 · 6 PM",
+       "ff": "IvyOra Display Medium",
+       "fs": 20,
+       "lh": "24px",
+       "c": "rgb(95, 37, 15)"
+      }
+     ],
+     "z": 10,
+     "id": "label-events-intro"
+    },
+    {
+     "t": "t",
+     "n": "Invitation Line",
+     "x": 90.0,
+     "y": 1119.2,
+     "w": 220.0,
+     "h": 50.0,
+     "items": [
+      {
+       "tx": "The Tripathi family invites you",
+       "ff": "IvyOra Display Regular",
+       "fs": 14,
+       "lh": "16.8px",
+       "c": "rgb(95, 37, 15)",
+       "ta": "center"
+      },
+      {
+       "tx": "to celebrate the wedding of",
+       "ff": "IvyOra Display Regular",
+       "fs": 14,
+       "lh": "16.8px",
+       "c": "rgb(95, 37, 15)",
+       "ta": "center"
+      },
+      {
+       "tx": "Tushar and Monika",
+       "ff": "IvyOra Display Regular",
+       "fs": 14,
+       "lh": "16.8px",
+       "c": "rgb(95, 37, 15)",
+       "ta": "center"
+      }
+     ],
+     "z": 10,
+     "id": "invitation-line"
+    },
+    {
+     "t": "t",
+     "n": "Groom Name — Tushar",
+     "x": 101.6,
+     "y": 1171.5,
+     "w": 189.0,
+     "h": 103.0,
+     "items": [
+      {
+       "tx": "Tushar",
+       "ff": "Miofarin Regular",
+       "fs": 86,
+       "lh": "103.2px",
+       "c": "rgba(171, 86, 38, 0.72)"
+      }
+     ],
+     "z": 10,
+     "id": "groom-name-tushar"
+    },
+    {
+     "t": "t",
+     "n": "Ampersand — and",
+     "x": 7.0,
+     "y": 1230.8,
+     "w": 386.0,
+     "h": 88.0,
+     "items": [
+      {
+       "tx": "and",
+       "ff": "Brother Signature Regular",
+       "fs": 73,
+       "lh": "87.6px",
+       "c": "rgba(171, 86, 38, 0.72)",
+       "ta": "center"
+      }
+     ],
+     "z": 10,
+     "id": "ampersand-and"
+    },
+    {
+     "t": "t",
+     "n": "Bride Name — Monika",
+     "x": 90.0,
+     "y": 1288.9,
+     "w": 220.0,
+     "h": 103.0,
+     "items": [
+      {
+       "tx": "Monika",
+       "ff": "Miofarin Regular",
+       "fs": 86,
+       "lh": "103.2px",
+       "c": "rgba(171, 86, 38, 0.72)"
+      }
+     ],
+     "z": 10,
+     "id": "bride-name-monika"
+    },
+    {
+     "t": "i",
+     "n": "Temple",
+     "x": -1.0,
+     "y": 347.8,
+     "w": 400.0,
+     "h": 1458.0,
+     "src": "Vmh2DwpF7PAgb69W6NahdCwGidA.webp",
+     "fit": "contain",
+     "z": 9,
+     "id": "temple"
+    },
+    {
+     "t": "c",
+     "n": "Hanging Bell 1",
+     "x": 306.7,
+     "y": -1.0,
+     "w": 52.0,
+     "h": 181.0,
+     "src": "BETBi0AtFY20asJ3PfAMAFe8g.png",
+     "z": 10,
+     "id": "hanging-bell-1"
+    },
+    {
+     "t": "c",
+     "n": "Hanging Bell 2",
+     "x": 36.0,
+     "y": -1.0,
+     "w": 43.0,
+     "h": 181.0,
+     "src": "BETBi0AtFY20asJ3PfAMAFe8g.png",
+     "z": 10,
+     "id": "hanging-bell-2"
+    },
+    {
+     "t": "c",
+     "n": "Hanging Bell 3",
+     "x": 12.0,
+     "y": 0.0,
+     "w": 37.0,
+     "h": 137.0,
+     "src": "XegR81dMLWk0YMirVBF6rsfAs3Y.png",
+     "z": 10,
+     "id": "hanging-bell-3"
+    },
+    {
+     "t": "i",
+     "n": "Bells Frame",
+     "x": -6.0,
+     "y": 0.2,
+     "w": 410.0,
+     "h": 209.0,
+     "src": "Zrnq96rxcNCLdk4Yaz94Dup5Q.webp",
+     "fit": "contain",
+     "z": 9,
+     "id": "bells-frame"
+    },
+    {
+     "t": "c",
+     "n": "Hanging Bell 4",
+     "x": 333.1,
+     "y": 15.0,
+     "w": 46.0,
+     "h": 121.0,
+     "src": "XegR81dMLWk0YMirVBF6rsfAs3Y.png",
+     "z": 10,
+     "id": "hanging-bell-4"
+    },
+    {
+     "t": "i",
+     "n": "Cloud",
+     "x": 0.0,
+     "y": 89.9,
+     "w": 399.0,
+     "h": 322.0,
+     "src": "qTlCAkdnbuZVEx4RAWSlgsGHX0.webp",
+     "fit": "cover",
+     "z": 6,
+     "id": "cloud"
+    },
+    {
+     "t": "i",
+     "n": "Mountain",
+     "x": -39.0,
+     "y": 336.0,
+     "w": 478.0,
+     "h": 473.0,
+     "src": "jv9Y5c65dupWuUvOrLUvDm6o.webp",
+     "fit": "cover",
+     "z": 5,
+     "id": "mountain"
+    },
+    {
+     "t": "i",
+     "n": "Sun",
+     "x": 39.1,
+     "y": 264.8,
+     "w": 264.0,
+     "h": 223.5,
+     "src": "CAJYZSTyHrLw4D8Gxv3UGjFaMg.webp",
+     "fit": "contain",
+     "z": 6,
+     "id": "sun"
+    },
+    {
+     "t": "i",
+     "n": "Sky Background",
+     "x": 0.0,
+     "y": -1.0,
+     "w": 398.0,
+     "h": 802.0,
+     "src": "ELVgHUKqtqAl9gf1nwbYhSeTg.webp",
+     "fit": "cover",
+     "z": -1,
+     "id": "sky-background"
+    }
+   ]
+  },
+  {
+   "id": "wedding-timeline",
+   "name": "2 — Wedding Timeline",
+   "z": 2,
+   "top": 938,
+   "height": 2445,
+   "clip": true,
+   "bg": null,
+   "elements": [
+    {
+     "t": "i",
+     "n": "Peacock Backdrop",
+     "x": -1.5,
+     "y": 1267.1,
+     "w": 400.0,
+     "h": 1993.0,
+     "src": "ctlwo5LpuBk9eskYOT9Z2MD8wso.webp",
+     "fit": "cover",
+     "z": 1,
+     "id": "peacock-backdrop"
+    },
+    {
+     "t": "card",
+     "n": "6",
+     "x": 220.0,
+     "y": 2497.9,
+     "w": 148.0,
+     "h": 229.0,
+     "src": "TUkRvFIUDwblbb4eewkBlJzZwJw.png",
+     "fit": "cover",
+     "z": 1,
+     "id": "6"
+    },
+    {
+     "t": "card",
+     "n": "5",
+     "x": 29.0,
+     "y": 2497.9,
+     "w": 148.0,
+     "h": 229.0,
+     "src": "TUkRvFIUDwblbb4eewkBlJzZwJw.png",
+     "fit": "cover",
+     "z": 1,
+     "id": "5"
+    },
+    {
+     "t": "card",
+     "n": "4",
+     "x": 220.0,
+     "y": 2237.9,
+     "w": 148.0,
+     "h": 229.0,
+     "src": "TUkRvFIUDwblbb4eewkBlJzZwJw.png",
+     "fit": "cover",
+     "z": 1,
+     "id": "4"
+    },
+    {
+     "t": "card",
+     "n": "3",
+     "x": 29.0,
+     "y": 2237.9,
+     "w": 148.0,
+     "h": 229.0,
+     "src": "TUkRvFIUDwblbb4eewkBlJzZwJw.png",
+     "fit": "cover",
+     "z": 1,
+     "id": "3"
+    },
+    {
+     "t": "card",
+     "n": "2",
+     "x": 220.0,
+     "y": 1977.9,
+     "w": 148.0,
+     "h": 229.0,
+     "src": "TUkRvFIUDwblbb4eewkBlJzZwJw.png",
+     "fit": "cover",
+     "z": 1,
+     "id": "2"
+    },
+    {
+     "t": "card",
+     "n": "1",
+     "x": 29.0,
+     "y": 1977.9,
+     "w": 148.0,
+     "h": 229.0,
+     "src": "TUkRvFIUDwblbb4eewkBlJzZwJw.png",
+     "fit": "cover",
+     "z": 1,
+     "id": "1"
+    },
+    {
+     "t": "i",
+     "n": "Peacock Ornament",
+     "x": 115.5,
+     "y": 2716.2,
+     "w": 166.0,
+     "h": 65.0,
+     "src": "pyLtbhSLIRf4NHAy72amY2aW58.webp",
+     "fit": "cover",
+     "z": 1,
+     "id": "peacock-ornament"
+    },
+    {
+     "t": "i",
+     "n": "Timeline Ornament 1",
+     "x": 128.5,
+     "y": 2136.9,
+     "w": 140.0,
+     "h": 140.0,
+     "src": "ciPCtoLf1PEnCNBnsx6boOBPU.webp",
+     "fit": "cover",
+     "z": 1,
+     "id": "timeline-ornament-1"
+    },
+    {
+     "t": "i",
+     "n": "Timeline Ornament 2",
+     "x": 128.5,
+     "y": 2408.3,
+     "w": 140.0,
+     "h": 140.0,
+     "src": "ciPCtoLf1PEnCNBnsx6boOBPU.webp",
+     "fit": "cover",
+     "z": 1,
+     "id": "timeline-ornament-2"
+    },
+    {
+     "t": "i",
+     "n": "Pillar Ornament R1",
+     "x": 327.5,
+     "y": 2721.3,
+     "w": 70.0,
+     "h": 101.0,
+     "src": "gt4WrIeOxcZz1kQLQ9ovWBkpc.webp",
+     "fit": "cover",
+     "z": 1,
+     "id": "pillar-ornament-r1"
+    },
+    {
+     "t": "i",
+     "n": "Pillar Ornament R2",
+     "x": 327.5,
+     "y": 2427.8,
+     "w": 70.0,
+     "h": 101.0,
+     "src": "gt4WrIeOxcZz1kQLQ9ovWBkpc.webp",
+     "fit": "cover",
+     "z": 1,
+     "id": "pillar-ornament-r2"
+    },
+    {
+     "t": "i",
+     "n": "Pillar Ornament R3",
+     "x": 327.5,
+     "y": 2158.9,
+     "w": 70.0,
+     "h": 101.0,
+     "src": "gt4WrIeOxcZz1kQLQ9ovWBkpc.webp",
+     "fit": "cover",
+     "z": 1,
+     "id": "pillar-ornament-r3"
+    },
+    {
+     "t": "i",
+     "n": "Pillar Ornament L1",
+     "x": -0.4,
+     "y": 2158.4,
+     "w": 71.0,
+     "h": 102.0,
+     "src": "dU6QWYOyKfqMfHH3mCT84Z3dAJE.webp",
+     "fit": "cover",
+     "z": 1,
+     "id": "pillar-ornament-l1"
+    },
+    {
+     "t": "i",
+     "n": "Pillar Ornament L2",
+     "x": -0.4,
+     "y": 2427.3,
+     "w": 71.0,
+     "h": 102.0,
+     "src": "dU6QWYOyKfqMfHH3mCT84Z3dAJE.webp",
+     "fit": "cover",
+     "z": 1,
+     "id": "pillar-ornament-l2"
+    },
+    {
+     "t": "i",
+     "n": "Pillar Ornament L3",
+     "x": -0.4,
+     "y": 2720.8,
+     "w": 71.0,
+     "h": 102.0,
+     "src": "lsI4FJ0BeiT9e8FhL5WYmPRlnyY.webp",
+     "fit": "cover",
+     "z": 1,
+     "id": "pillar-ornament-l3"
+    },
+    {
+     "t": "t",
+     "n": "Timeline Subtext",
+     "x": 42.0,
+     "y": 1933.8,
+     "w": 313.0,
+     "h": 16.0,
+     "items": [
+      {
+       "tx": "Mark Your Calendars, We Can’t Wait to Celebrate",
+       "ff": "Gotham Light",
+       "fs": 13,
+       "lh": "15.6px",
+       "c": "rgb(95, 37, 15)"
+      }
+     ],
+     "z": 1,
+     "id": "timeline-subtext"
+    },
+    {
+     "t": "t",
+     "n": "Timeline Heading",
+     "x": 83.0,
+     "y": 1886.8,
+     "w": 231.0,
+     "h": 34.0,
+     "items": [
+      {
+       "tx": "Wedding Timeline",
+       "ff": "IvyOra Display Bold",
+       "fs": 28,
+       "lh": "33.6px",
+       "c": "rgb(95, 37, 15)",
+       "ta": "center"
+      }
+     ],
+     "z": 1,
+     "id": "timeline-heading"
+    },
+    {
+     "t": "i",
+     "n": "Pillar Backdrop",
+     "x": -1.5,
+     "y": 1169.1,
+     "w": 400.0,
+     "h": 436.0,
+     "src": "vo85LJWiG7KY5sTcDsBhG1aEc.webp",
+     "fit": "cover",
+     "z": 0,
+     "id": "pillar-backdrop"
+    }
+   ]
+  },
+  {
+   "id": "meet-the-couple",
+   "name": "3 — Meet the Couple",
+   "z": 3,
+   "top": 2952,
+   "height": 1658,
+   "clip": false,
+   "bg": null,
+   "elements": [
+    {
+     "t": "i",
+     "n": "Section Backdrop",
+     "x": -1.0,
+     "y": 2797.1,
+     "w": 400.0,
+     "h": 1498.0,
+     "src": "hUKMKAtrpqFCDTXl35Y5yuIjRw.webp",
+     "fit": "cover",
+     "z": 0,
+     "id": "section-backdrop"
+    },
+    {
+     "t": "i",
+     "n": "Message Card Frame",
+     "x": 30.5,
+     "y": 3433.9,
+     "w": 337.0,
+     "h": 415.0,
+     "src": "nGPy0RPGbGwAd8w8op4XKveKWM.webp",
+     "fit": "cover",
+     "z": 3,
+     "id": "message-card-frame"
+    },
+    {
+     "t": "c",
+     "n": "Message Scroll Text",
+     "x": 61.5,
+     "y": 3571.4,
+     "w": 275.0,
+     "h": 260,
+     "z": 1,
+     "id": "message-scroll-text"
+    },
+    {
+     "t": "c",
+     "n": "Photo Gallery",
+     "x": -3.0,
+     "y": 3848.8,
+     "w": 402.0,
+     "h": 340.0,
+     "z": 1,
+     "id": "photo-gallery"
+    },
+    {
+     "t": "t",
+     "n": "Meet the Couple Heading",
+     "x": 61.0,
+     "y": 3314.8,
+     "w": 276.0,
+     "h": 82.0,
+     "items": [
+      {
+       "tx": "Meet the",
+       "ff": "IvyOra Display Medium",
+       "fs": 34,
+       "lh": "40.8px",
+       "c": "rgb(95, 37, 15)",
+       "ta": "center"
+      },
+      {
+       "tx": "BRIDE & GROOM",
+       "ff": "IvyOra Display Medium",
+       "fs": 34,
+       "lh": "40.8px",
+       "c": "rgb(95, 37, 15)",
+       "ta": "center"
+      }
+     ],
+     "z": 0,
+     "id": "meet-the-couple-heading"
+    },
+    {
+     "t": "t",
+     "n": "Almost Time Heading",
+     "x": 145.0,
+     "y": 4051.0,
+     "w": 108.0,
+     "h": 48.0,
+     "items": [
+      {
+       "tx": "Almost time",
+       "ff": "IvyOra Display Medium",
+       "fs": 20,
+       "lh": "24px",
+       "c": "rgb(95, 37, 15)",
+       "ta": "center"
+      },
+      {
+       "tx": "to celebrate",
+       "ff": "IvyOra Display Medium",
+       "fs": 20,
+       "lh": "24px",
+       "c": "rgb(95, 37, 15)",
+       "ta": "center"
+      }
+     ],
+     "z": 2,
+     "id": "almost-time-heading"
+    }
+   ]
+  },
+  {
+   "id": "location-countdown",
+   "name": "4 — Location & Countdown",
+   "z": 4,
+   "top": 4218,
+   "height": 2294,
+   "clip": false,
+   "bg": null,
+   "elements": [
+    {
+     "t": "i",
+     "n": "Section Background",
+     "x": 0.0,
+     "y": 4150.1,
+     "w": 398.0,
+     "h": 265.0,
+     "src": "cuJqbfW35i2RRVw2Q3Vaix9WO8I.webp",
+     "fit": "cover",
+     "z": -1,
+     "id": "section-background"
+    },
+    {
+     "t": "i",
+     "n": "Location & Countdown BG",
+     "x": 0.0,
+     "y": 4142.9,
+     "w": 398.0,
+     "h": 2403.0,
+     "src": "Ta8VvaJo4SZuTcgz4N8iLLSsLE.webp",
+     "fit": "cover",
+     "z": 0,
+     "id": "location-countdown-bg"
+    },
+    {
+     "t": "c",
+     "n": "RSVP Form",
+     "x": 29.0,
+     "y": 5396.8,
+     "w": 340.0,
+     "h": 231.0,
+     "z": 10,
+     "id": "rsvp-form"
+    },
+    {
+     "t": "i",
+     "n": "Ornament Top",
+     "x": 28.5,
+     "y": 5652.9,
+     "w": 341.0,
+     "h": 56.0,
+     "src": "7Jr9KCHDFL5pwPFZFeisN44Yzi4.webp",
+     "fit": "cover",
+     "z": 0,
+     "id": "ornament-top"
+    },
+    {
+     "t": "i",
+     "n": "Ornament Bottom",
+     "x": 28.5,
+     "y": 5316.9,
+     "w": 341.0,
+     "h": 56.0,
+     "src": "7Jr9KCHDFL5pwPFZFeisN44Yzi4.webp",
+     "fit": "cover",
+     "r": 180,
+     "z": 0,
+     "id": "ornament-bottom"
+    },
+    {
+     "t": "t",
+     "n": "Countdown Heading",
+     "x": 79.0,
+     "y": 5723.9,
+     "w": 232.0,
+     "h": 29.0,
+     "items": [
+      {
+       "tx": "The countdown begins",
+       "ff": "IvyOra Display Medium",
+       "fs": 24,
+       "lh": "28.8px",
+       "c": "rgb(95, 37, 15)"
+      }
+     ],
+     "z": 0,
+     "id": "countdown-heading"
+    },
+    {
+     "t": "c",
+     "n": "Countdown Timer",
+     "x": 111.8,
+     "y": 5835.8,
+     "w": 166.5,
+     "h": 31.5,
+     "k": 0.5,
+     "z": 0,
+     "id": "countdown-timer"
+    },
+    {
+     "t": "t",
+     "n": "Countdown Intro Text",
+     "x": -4.5,
+     "y": 5759.0,
+     "w": 400.0,
+     "h": 43.0,
+     "items": [
+      {
+       "tx": "Our families are excited that you are able to join",
+       "ff": "IvyOra Display Regular",
+       "fs": 11,
+       "lh": "13.2px",
+       "c": "rgb(95, 37, 15)",
+       "ta": "center"
+      },
+      {
+       "tx": "us in celebrating what we hope will be one",
+       "ff": "IvyOra Display Regular",
+       "fs": 11,
+       "lh": "13.2px",
+       "c": "rgb(95, 37, 15)",
+       "ta": "center"
+      },
+      {
+       "tx": "of the happiest days of our lives",
+       "ff": "IvyOra Display Regular",
+       "fs": 11,
+       "lh": "13.2px",
+       "c": "rgb(95, 37, 15)",
+       "ta": "center"
+      }
+     ],
+     "z": 0,
+     "id": "countdown-intro-text"
+    },
+    {
+     "t": "i",
+     "n": "Countdown Backdrop",
+     "x": -27.5,
+     "y": 5652.8,
+     "w": 453.0,
+     "h": 561.0,
+     "src": "LDGCqdzKnQ5ErPPOpHZbdl96s.webp",
+     "fit": "cover",
+     "z": 0,
+     "id": "countdown-backdrop"
+    },
+    {
+     "t": "i",
+     "n": "Countdown Divider",
+     "x": 96.5,
+     "y": 5812.0,
+     "w": 197.0,
+     "h": 11.0,
+     "src": "T7c0PLf2sfUhiq0SlGf4frlVQMA.webp",
+     "fit": "cover",
+     "z": 0,
+     "id": "countdown-divider"
+    },
+    {
+     "t": "c",
+     "n": "Location Map",
+     "x": 27.0,
+     "y": 4491.0,
+     "w": 343.0,
+     "h": 560.0,
+     "z": 3,
+     "id": "location-map"
+    },
+    {
+     "t": "t",
+     "n": "Looking Forward Heading",
+     "x": 79.0,
+     "y": 4436.1,
+     "w": 240.0,
+     "h": 25.0,
+     "items": [
+      {
+       "tx": "Looking forward to see you",
+       "ff": "IvyOra Display Medium",
+       "fs": 21,
+       "lh": "25.2px",
+       "c": "rgb(95, 37, 15)",
+       "ta": "center"
+      }
+     ],
+     "z": 1,
+     "id": "looking-forward-heading"
+    },
+    {
+     "t": "t",
+     "n": "Things to Know Subtext",
+     "x": 1.0,
+     "y": 5143.0,
+     "w": 398.0,
+     "h": 46.0,
+     "items": [
+      {
+       "tx": "To help you feel at ease and enjoy every moment of the celebrations,",
+       "ff": "Gotham Book",
+       "fs": 10,
+       "lh": "16px",
+       "c": "rgb(95, 37, 15)",
+       "ls": "-0.2px",
+       "ta": "center"
+      },
+      {
+       "tx": "we’ve gathered a few thoughtful details we’d love for you",
+       "ff": "Gotham Book",
+       "fs": 10,
+       "lh": "16px",
+       "c": "rgb(95, 37, 15)",
+       "ls": "-0.2px",
+       "ta": "center"
+      },
+      {
+       "tx": "to know before the big day",
+       "ff": "Gotham Book",
+       "fs": 10,
+       "lh": "16px",
+       "c": "rgb(95, 37, 15)",
+       "ls": "-0.2px",
+       "ta": "center"
+      }
+     ],
+     "z": 0,
+     "id": "things-to-know-subtext"
+    },
+    {
+     "t": "t",
+     "n": "Things to Know Heading",
+     "x": 97.5,
+     "y": 5092.1,
+     "w": 203.0,
+     "h": 37.0,
+     "items": [
+      {
+       "tx": "Things to know",
+       "ff": "IvyOra Display Medium",
+       "fs": 31,
+       "lh": "37.2px",
+       "c": "rgb(95, 37, 15)"
+      }
+     ],
+     "z": 0,
+     "id": "things-to-know-heading"
+    },
+    {
+     "t": "c",
+     "n": "Info Icons Row",
+     "x": 12.9,
+     "y": 5196.8,
+     "w": 371.6,
+     "h": 111.3,
+     "k": 0.38,
+     "z": 0,
+     "id": "info-icons-row"
+    }
+   ]
+  }
+ ]
+}
